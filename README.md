@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (1160)" src="https://github.com/user-attachments/assets/f3782121-1663-4ecd-b9a3-0f32f1047c9a" />
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
